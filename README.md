@@ -1,11 +1,11 @@
 How to run this:
 cd Hatties_todo_app
 
-FRONTEND PREPARE
+FRONTEND
  - cd frontend
  - npm install
 
- BACKEND PREPARE
+ BACKEND
  - cd backend
  - npm install
 

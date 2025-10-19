@@ -10,4 +10,6 @@ FRONTEND
  - npm install
 
 cd ..
+
+
 npm run dev (chạy cả 2 folder cùng lúc ở thư mục chứa cả frontend và backend)!!!
